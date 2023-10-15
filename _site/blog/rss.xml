@@ -7,12 +7,12 @@
 <description>Grow with Technology</description>
 
 <item>
-<title>Proin Quam</title>
+<title>Test</title>
 <link>http://localhost:8000/blog/test/</link>
 <description>
 <![CDATA[
 <p>
-Proin quam urna, pulvinar id ipsum ac, mattis consectetur ante. Praesent non justo lectus. Duis egestas arcu libero, quis laoreet dolor volutpat ut. Donec facilisis&nbsp;<a href="http://localhost:8000/blog/test/">...</a>
+## test&nbsp;<a href="http://localhost:8000/blog/test/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/test/">Read More</a></p>
 ]]>
